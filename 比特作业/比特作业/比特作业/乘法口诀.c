@@ -7,7 +7,7 @@
 //	{
 //		for (j = 1; j <= i; j++)
 //		{
-//			printf("%d*%d=%-4d", i, j, i * j);
+//			printf("%d*%d=%-4d", j, i, i * j);
 //		}
 //		printf("\n");
 //	}

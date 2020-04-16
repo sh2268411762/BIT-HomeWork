@@ -143,6 +143,7 @@
     <ClCompile Include="58_3_29.c" />
     <ClCompile Include="58_4_10.c" />
     <ClCompile Include="58_4_12.c" />
+    <ClCompile Include="58_4_16.c" />
     <ClCompile Include="58_4_8.c" />
     <ClCompile Include="58_3_30.c" />
     <ClCompile Include="58_3_31.c" />
