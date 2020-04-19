@@ -84,7 +84,10 @@
     <ClCompile Include="58_4_12.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="58_4_16.c">
+    <ClCompile Include="58_4_15.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="58_4_19.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
