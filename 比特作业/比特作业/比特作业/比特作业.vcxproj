@@ -145,6 +145,7 @@
     <ClCompile Include="58_4_12.c" />
     <ClCompile Include="58_4_15.c" />
     <ClCompile Include="58_4_19.c" />
+    <ClCompile Include="58_4_25.c" />
     <ClCompile Include="58_4_8.c" />
     <ClCompile Include="58_3_30.c" />
     <ClCompile Include="58_3_31.c" />
