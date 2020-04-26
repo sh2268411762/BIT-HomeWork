@@ -93,5 +93,8 @@
     <ClCompile Include="58_4_25.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="58_4_26.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
