@@ -19,18 +19,18 @@
 //}
 //int main()
 //{
-//    //int n;
+//    int n;
 //    int n = 1;
-//    //int count = 0;
+//    int count = 0;
 //    printf("输入你想计算阶乘的数：\n");
 //    scanf("%d", &n);
 //    printf("%d的阶乘=%d\n", n, jiecheng(n));    //任意数的阶乘
 //
-//    //for (n = 1; n <= 10; n++)
-//    //{
-//    //    printf("%d的阶乘=%d\n", n, jiecheng(n));
-//    //    count += jiecheng(n);
-//   // } 
-//    //printf("%d\n", count);              // 1到10的阶乘
+//    for (n = 1; n <= 10; n++)
+//    {
+//        printf("%d的阶乘=%d\n", n, jiecheng(n));
+//        count += jiecheng(n);
+//    } 
+//    printf("%d\n", count);              // 1到10的阶乘
 //    return 0;
 //}
