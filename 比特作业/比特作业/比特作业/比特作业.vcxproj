@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="5.15.c" />
     <ClCompile Include="58_3_27.c" />
     <ClCompile Include="58_3_29.c" />
     <ClCompile Include="58_4_10.c" />
@@ -167,6 +168,7 @@
     <ClCompile Include="最大公约数.c" />
     <ClCompile Include="水仙花数.c" />
     <ClCompile Include="求10个整数中最大值.c" />
+    <ClCompile Include="喝饮料.c" />
     <ClCompile Include="自创函数操作数组.c" />
     <ClCompile Include="计算.c" />
     <ClCompile Include="阶乘.c" />

@@ -5,24 +5,32 @@
 //
 //int main()
 //{
-//	int money = 20;
+//	int money = 0;
 //	int count = 0;//瓶子
 //	int sum = 0;//喝的饮料总数
 //	printf("请输入钱数：-->");
 //	scanf("%d", &money);
-//	for (size_t i = 0; i < 20; i++)
+//	if (0 == money || money < 0)
 //	{
-//		count++;
-//		sum++;
-//		money--;
+//		printf("你喝个锤子\n");
 //	}
-//	while (count / 2)
+//	else
 //	{
-//		count -= 2;
-//		count++;
-//		sum++;
+//		int i = 0;
+//		for (; i < money; i++)
+//		{
+//			count++;
+//			sum++;
+//		}
+//		money -= i;
+//		while (count / 2)
+//		{
+//			count -= 2;
+//			count++;
+//			sum++;
+//		}
+//		printf("喝的饮料总数 sum = %d\n", sum);
 //	}
-//	printf("喝的饮料总数 sum = %d\n", sum);
 //	return 0;
 //}
 //int main()
