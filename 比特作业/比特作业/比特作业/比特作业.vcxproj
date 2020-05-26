@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="5.15.c" />
     <ClCompile Include="5.22.c" />
+    <ClCompile Include="5.24.c" />
     <ClCompile Include="58_3_27.c" />
     <ClCompile Include="58_3_29.c" />
     <ClCompile Include="58_4_10.c" />
