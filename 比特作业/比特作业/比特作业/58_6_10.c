@@ -161,12 +161,7 @@
 //}
 
 
-//#include <stdio.h>
-//#include <string.h>
-//#include <stdlib.h>
-//#include <assert.h>
-//
-//#define N 128
+
 ////Ä£ÄâÊµÏÖstrstr
 //char* My_strstr(const char* str1, const char* str2)
 //{
