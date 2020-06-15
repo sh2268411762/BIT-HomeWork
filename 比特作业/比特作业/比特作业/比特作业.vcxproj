@@ -161,6 +161,7 @@
     <ClCompile Include="58_5_8.c" />
     <ClCompile Include="58_6_10.c" />
     <ClCompile Include="58_6_12.c" />
+    <ClCompile Include="58_6_14.c" />
     <ClCompile Include="6.6.c" />
     <ClCompile Include="9 9乘法表.c" />
     <ClCompile Include="乘法口诀.c" />
