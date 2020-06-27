@@ -144,5 +144,8 @@
     <ClCompile Include="通讯录管理系统设计.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="58_6_27.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
