@@ -78,5 +78,8 @@
     <ClCompile Include="..\..\比特作业\比特作业\最大公约数.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10_18_1+2+n.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

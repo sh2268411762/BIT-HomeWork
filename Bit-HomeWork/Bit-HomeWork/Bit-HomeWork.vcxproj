@@ -40,6 +40,7 @@
     <ClCompile Include="..\..\比特作业\比特作业\自创函数操作数组.c" />
     <ClCompile Include="..\..\比特作业\比特作业\计算.c" />
     <ClCompile Include="..\..\比特作业\比特作业\阶乘.c" />
+    <ClCompile Include="10_18_1+2+n.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
