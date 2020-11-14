@@ -42,6 +42,10 @@
     <ClCompile Include="..\..\比特作业\比特作业\阶乘.c" />
     <ClCompile Include="10.22.cpp" />
     <ClCompile Include="10_18_1+2+n.cpp" />
+    <ClCompile Include="202011.10OJ.cpp" />
+    <ClCompile Include="202011.8.cpp" />
+    <ClCompile Include="202011.8OJ.cpp" />
+    <ClCompile Include="202011.9OJ.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

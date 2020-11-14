@@ -84,5 +84,17 @@
     <ClCompile Include="10.22.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="202011.8.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="202011.8OJ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="202011.9OJ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="202011.10OJ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
